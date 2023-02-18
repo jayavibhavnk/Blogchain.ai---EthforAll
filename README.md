@@ -1,1 +1,1 @@
-# Blogchain.ai---EthforAll
+# Blogchain.ai-EthforAll
