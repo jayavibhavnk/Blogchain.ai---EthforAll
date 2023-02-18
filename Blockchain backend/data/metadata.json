@@ -1,0 +1,15 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Text"
+    }
+  ],
+  "description": "First NFT",
+  "image": "https://ipfs.io/ipfs/bafybeietbokthgzjpb7reghg76y7o67gbbelrpdohzl2huhk34o4juqzzq",
+  "name": "Anime_NFT"
+}

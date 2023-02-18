@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@arcana/auth": "^1.0.1"
+  },
+  "scripts": {
+    "start": "nodemon --experimental-modules --es-module-specifier-resolution=node index.js singleblog.js"
+  }
+}
