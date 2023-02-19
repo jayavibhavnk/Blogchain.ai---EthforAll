@@ -45,6 +45,7 @@ The implementation of Arcana SDK in our project is shown in the following demo:
 
 [Arcana implementation in project](https://www.youtube.com/watch?v=XMHn-AmlLaI)
 
+<img src="./Screenshots/arcana.jpeg" width="500" align="middle">
 
 - ### PUSH Protocol : 
 
@@ -53,6 +54,8 @@ After successful authentication, the user can create a blog which is processed o
 Here, is a demonstration of PUSH notifications implemented in the project to send notifications to all users about the newly minted NFTs and the created blogs:-
 
 [Push protocol implementation in project](https://youtu.be/OSp0tJwj0WU)
+
+<img src="./Screenshots/push.jpeg" width="500" align="middle">
 
 - ### Chainlink : 
 
@@ -63,6 +66,8 @@ Here, is the demonstration of Chainlink into the project to provide data and inf
 
 [Chainlink implementation in project](https://youtu.be/y3vJxndO7gA)
 
+<img src="./Screenshots/chainlink.jpeg" width="500" align="middle">
+
 - ### IPFS :
 
 Storage is an important aspect of our site, and we have used IPFS for all our storage needs. From the specially generated images by our AI to the unique NFTs minted off-chain and the contents of the blogs - we have implemented IPFS as our decentralized web3 storage solution. As IPFS is the standard for many storage services, dedicated IPFS servers for NFT.Storage will safely store the data required and keep the NFTs secure, along with all the other material from the blogs. 
@@ -72,3 +77,5 @@ Storage is an important aspect of our site, and we have used IPFS for all our st
 BlogChain.ai creates AI generated images for blogs which are then converted to NFTs. This NFT is encoded with the blog text and uploaded onto NFT.Storage, using the api to get the CID. Once the NFT is uploaded, it is minted using smart contracts, which are deployed on File Coin Virtual Machine (FVM) to generate the accessible link. This link is the NFT which is stored in IPFS and is used to display the NFT on PUSH notifications, as well as on the website. 
 
 The smart contract is deployed on FVM, and is based on ERC721 contract. This provides a standard for representing ownership of non - fungible tokens (NFTs), with guidelines and methods for minting NFTs.
+
+<img src="./Screenshots/project.jpeg" width="500" align="middle">
