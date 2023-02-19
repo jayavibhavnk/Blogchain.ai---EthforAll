@@ -12,15 +12,25 @@ This has been developed using web 3.0 technologies that enable decentralization,
 Here's our [project demonstration](https://www.youtube.com/watch?v=l_Xdm4_CgmQ) on youtube. 
 
 1. Home page of BlogChain.ai - This page displays the latest blogs with their NFTs on our platform.
+    
     <img src="./Screenshots/HomePage.png" width="500" align="middle">
+
 2. Arcana Authentication - To use the features of our website a user authentication is required, this is done using Arcana Authentication SDK.
+    
     <img src="./Screenshots/ArcanaAuth.png" width="500" align="middle">
+
 3. Create Blog -  Once logged in, users can create blogs on our platform, user only has to provide only the blog content.
+    
     <img src="./Screenshots/BlogCreation.png" width="500" align="middle">
+
 4. Push Notification - On blog creation a Push Notification of the cover image NFT along with relevant blog details is sent to the channel delegates.
+    
     <img src="./Screenshots/PUSHNotif.png" width="500" align="middle">
+
 5. Blog view - The blogs on the home page can be viewed along with cover image NFT, blog content and other AI generated images. 
+    
     <img src="./Screenshots/BlogFocus.png" width="500" align="middle">
+
 ## Technologies used for development - 
 
 - ### Arcana : 
