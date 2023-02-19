@@ -43,7 +43,7 @@ We integrated ARCANA SDK for user authentication in our website. It enables a fa
 
 The implementation of Arcana SDK in our project is shown in the following demo:
 
-[Arcana implementation in project](https://www.youtube.com/watch?v=XMHn-AmlLaI)
+[Arcana implementation in project on youtube](https://www.youtube.com/watch?v=XMHn-AmlLaI)
 
 <img src="./Screenshots/arcana.jpeg" width="500" align="middle">
 
@@ -53,7 +53,7 @@ After successful authentication, the user can create a blog which is processed o
 
 Here, is a demonstration of PUSH notifications implemented in the project to send notifications to all users about the newly minted NFTs and the created blogs:-
 
-[Push protocol implementation in project](https://youtu.be/OSp0tJwj0WU)
+[Push protocol implementation in project on youtube](https://youtu.be/OSp0tJwj0WU)
 
 <img src="./Screenshots/push.jpeg" width="500" align="middle">
 
