@@ -7,6 +7,15 @@ Through **BlogChain.ai**, we hope to help both bloggers and readers have a bette
 
 This has been developed using web 3.0 technologies that enable decentralization, personalization, immersiveness, and a token-driven economy. It provides user with a personalized web surfing experience. The project aims at making blog sharing decentralised using web 3.0 technologies like **FVM**, **Arcana**, **IPFS**, **PUSH Protocol**, **Chainlink** etc.
 
+## Project demonstration 
+
+Here's our [project demonstration](https://www.youtube.com/watch?v=l_Xdm4_CgmQ) on youtube. 
+
+1. Home page of BlogChain.ai - This page displays the latest blogs with their NFTs on our platform.
+2. Arcana Authentication - To use the features of our website a user authentication is required, this is done using Arcana Authentication SDK.
+3. Create Blog -  Once logged in, users can create blogs on our platform, user only has to provide only the blog content.
+4. Push Notification - On blog creation a Push Notification of the cover image NFT along with relevant blog details is sent to the channel delegates.
+5. Blog view - The blogs on the home page can be viewed along with cover image NFT, blog content and other AI generated images. 
 
 ## Technologies used for development - 
 
