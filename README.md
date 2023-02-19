@@ -17,7 +17,7 @@ Here's our [project demonstration](https://www.youtube.com/watch?v=l_Xdm4_CgmQ) 
 
 2. Arcana Authentication - To use the features of our website a user authentication is required, this is done using Arcana Authentication SDK.
     
-    <img src="./Screenshots/arcana1.png" width="500" align="middle">
+    <img src="./Screenshots/arcana1.jpeg" width="500" align="middle">
 
 3. Create Blog -  Once logged in, users can create blogs on our platform, user only has to provide only the blog content.
     
