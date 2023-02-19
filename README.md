@@ -78,6 +78,8 @@ The smart contract is deployed on FVM, and is based on ERC721 contract. This pro
 
 **The deployed FVM Contract address is as follows  0x70182549ad11ac347E74aFbAcCbF0bC4b779fA90**
 
+[Contract deployment confirmation on filfox](https://hyperspace.filfox.info/en/address/0x70182549ad11ac347E74aFbAcCbF0bC4b779fA90)
+
 [Chainlink and FVM implementation in project](https://youtu.be/y3vJxndO7gA)
 
 <img src="./Screenshots/project.jpeg" width="500" align="middle">
