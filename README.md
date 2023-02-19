@@ -18,7 +18,7 @@ We integrated ARCANA SDK for user authentication in our website. It enables a fa
 
 The implementation of Arcana SDK in our project is shown in the following demo:
 
-https://www.youtube.com/watch?v=XMHn-AmlLaI
+[Arcana implementation in project](https://www.youtube.com/watch?v=XMHn-AmlLaI)
 
 
 - ### PUSH Protocol : 
@@ -27,7 +27,7 @@ After successful authentication, the user can create a blog which is processed o
 
 Here, is a demonstration of PUSH notifications implemented in the project to send notifications to all users about the newly minted NFTs and the created blogs:-
 
-https://youtu.be/OSp0tJwj0WU
+[Push protocol implementation in project](https://youtu.be/OSp0tJwj0WU)
 
 - ### Chainlink : 
 
@@ -36,7 +36,7 @@ A Chainlink bridge was implemented and hosted locally using a docker container.
 
 Here, is the demonstration of Chainlink into the project to provide data and information from off-blockchain sources to on-blockchain smart contracts:-
 
-https://youtu.be/y3vJxndO7gA
+[Chainlink implementation in project](https://youtu.be/y3vJxndO7gA)
 
 - ### IPFS :
 
