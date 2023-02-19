@@ -76,6 +76,8 @@ BlogChain.ai creates AI generated images for blogs which are then converted to N
 
 The smart contract is deployed on FVM, and is based on ERC721 contract. This provides a standard for representing ownership of non - fungible tokens (NFTs), with guidelines and methods for minting NFTs.
 
+[Chainlink and FVM implementation in project](https://youtu.be/y3vJxndO7gA)
+
 <img src="./Screenshots/project.jpeg" width="500" align="middle">
 
-[Chainlink and FVM implementation in project](https://youtu.be/y3vJxndO7gA)
+
