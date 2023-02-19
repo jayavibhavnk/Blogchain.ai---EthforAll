@@ -2,7 +2,7 @@
 
 Blogs are a forum for individuals and organisations to communicate their thoughts, ideas, and experiences with an audience from all over the world. They have become an irreplaceable medium of sharing information in the modern era, but due to reduced attention spans, many find it difficult to sit through walls of text without any illustrations, leading to limited reach and comprehensibilty of the content. According to research, image-based blogs have higher user engagement and readership than text-based blogs as they appeal to visual learners better.
 
-Through _BlogChain.ai_, we hope to help both bloggers and readers have a better experience in posting and consuming content on the internet. Want to increase traffic on your blogs or get the entire gist of the content in a few seconds? Don't worry, we've got your back.
+Through __BlogChain.ai__, we hope to help both bloggers and readers have a better experience in posting and consuming content on the internet. Want to increase traffic on your blogs or get the entire gist of the content in a few seconds? Don't worry, we've got your back.
 
 *BlogChain.ai* is a web3 based blogging platform which integrates the powerful generative capabilities of AI into blockchain. Our AI specially generates images which are used as NFTs and are oriented towards the written material of the blog. This enables bloggers to make their writing visually appealing, while also making a unique NFT based on the highlighted content in the blog. Our site creates an NFT using the cover image of the blog and encodes the blog text into the image using image steganography. This helps users share their content using a single NFT, thus increasing the shareability and readability of these blogs.
 
