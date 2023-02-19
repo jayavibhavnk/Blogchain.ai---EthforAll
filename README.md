@@ -64,8 +64,6 @@ A Chainlink bridge was implemented and hosted locally using a docker container.
 
 Here, is the demonstration of Chainlink into the project to provide data and information from off-blockchain sources to on-blockchain smart contracts:-
 
-[Chainlink implementation in project](https://youtu.be/y3vJxndO7gA)
-
 <img src="./Screenshots/chainlink.jpeg" width="500" align="middle">
 
 - ### IPFS :
@@ -79,3 +77,5 @@ BlogChain.ai creates AI generated images for blogs which are then converted to N
 The smart contract is deployed on FVM, and is based on ERC721 contract. This provides a standard for representing ownership of non - fungible tokens (NFTs), with guidelines and methods for minting NFTs.
 
 <img src="./Screenshots/project.jpeg" width="500" align="middle">
+
+[Chainlink and FVM implementation in project](https://youtu.be/y3vJxndO7gA)
