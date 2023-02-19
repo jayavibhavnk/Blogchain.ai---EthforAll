@@ -80,4 +80,5 @@ The smart contract is deployed on FVM, and is based on ERC721 contract. This pro
 
 <img src="./Screenshots/project.jpeg" width="500" align="middle">
 
-
+## Our unique value proposition.
+   Unlike regular NFTs our NFT is an aggregation of AI generated images and blog content, the blog content is encoded into the AI generated image using        image steganography and can be decoded with the similar software using the password set by the user. Hence these blogs can be shared using the NFT image    only. 
