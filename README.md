@@ -5,7 +5,7 @@ Through **BlogChain.ai**, we hope to help both bloggers and readers have a bette
 
 **BlogChain.ai** is a web3 based blogging platform which integrates the powerful generative capabilities of AI into blockchain. Our AI specially generates images which are used as NFTs and are oriented towards the written material of the blog. This enables bloggers to make their writing visually appealing, while also making a unique NFT based on the highlighted content in the blog. Our site creates an NFT using the cover image of the blog and encodes the blog text into the image using image steganography. This helps users share their content using a single NFT, thus increasing the shareability and readability of these blogs.
 
-This has been developed using web 3.0 technologies that enable decentralization, personalization, immersiveness, and a token-driven economy. It provides user with a personalized web surfing experience. The project aims at making blog sharing decentralised using web 3.0 technologies like *FVM, **Arcana, **IPFS, **PUSH Protocol, **Chainlink* etc.
+This has been developed using web 3.0 technologies that enable decentralization, personalization, immersiveness, and a token-driven economy. It provides user with a personalized web surfing experience. The project aims at making blog sharing decentralised using web 3.0 technologies like **FVM**, **Arcana**, **IPFS**, **PUSH Protocol**, **Chainlink** etc.
 
 
 ## Technologies used for development - 
