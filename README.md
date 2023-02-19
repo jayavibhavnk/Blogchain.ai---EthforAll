@@ -30,6 +30,8 @@ Here's our [project demonstration](https://www.youtube.com/watch?v=l_Xdm4_CgmQ) 
 5. Blog view - The blogs on the home page can be viewed along with cover image NFT, blog content and other AI generated images. 
     
     <img src="./Screenshots/BlogFocus.png" width="500" align="middle">
+    
+The detailed explanation of each technology used in this project is as follows. 
 
 ## Technologies used for development - 
 
